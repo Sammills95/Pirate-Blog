@@ -14,7 +14,7 @@ def index ():
     'body': 'Ya best be believing in ghost stories Miss Elizabeth, you\'re in one'
     },
     {
-    'author': {'username': 'Cptn Hook'},
+    'author': {'username': 'Cptn_Hook1'},
     'body': 'I am the original, and the best captain'
     }
 
